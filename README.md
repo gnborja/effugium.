@@ -1,2 +1,2 @@
-# effuguim.
-welcome to effuguim.
+# effugium.
+welcome to effugium.
